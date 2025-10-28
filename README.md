@@ -1,2 +1,2 @@
-# Requirment-analysis
+# Requirement-analysis
 requirement analysis in software development 
